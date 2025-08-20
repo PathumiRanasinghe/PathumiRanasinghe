@@ -1,7 +1,6 @@
-<h1 align="center" style="color:#2196f3; font-family:'Montserrat', 'Fira Code', monospace; font-size:3em; font-weight:bold;  padding:10px 0; margin-bottom:0; letter-spacing:2px;">
-  Pathumi Ranasinghe
+<h1 align="center" style="color:#00B8D4; font-family:'Fira Code', monospace; font-size:2em; font-weight:normal; background:#111; padding:32px 0;">
+  Hi, I'm Pathumi Ranasinghe
 </h1>
-
 
 <div align="center">
 
@@ -12,23 +11,27 @@
 
 </div>
 
+<div align="center">
+</div>
 
-<hr style="border: 1px solid #1976d2; margin: 32px 0 16px 0;" />
-
-### About Me
-
-<ul style="color:#fff; font-size:1.1em; font-family:'Montserrat', 'Fira Code', monospace; max-width:700px; margin:0 auto;">
-  <li><strong>Computer Science & Engineering Undergraduate</strong> specializing in <strong>Data Science.</strong></li>
-  <li>Work on <strong>Full-Stack Development</strong> and AI integration to build impactful solutions.</li>
-  <li>Currently exploring <strong>Flutter, Firebase, and Deep Learning.</strong></li>
-  <li><strong>Hackathon enthusiast</strong> who loves collaborative problem-solving.</li>
-  <li><strong>Music lover</strong> who finds inspiration in melodies and rhythms.</li>
+<div align="center">
+  <table width="100%" style="background: linear-gradient(90deg, #e0f7fa 0%, #fffde4 100%); border-radius: 16px;  margin: 0 auto; max-width: 700px;">
+    <tr>
+      <td>
+   <ul>
+  <li><strong>Computer Science & Engineering Undergraduate</strong> passionate about transforming ideas into innovative solutions</li>
+  <li><strong>Specializing in Data Science, AI, and Full-Stack Development</strong> with a focus on creating meaningful impact</li>
+  <li><strong>Currently exploring Flutter, Firebase, and Deep Learning</strong> to build next-generation applications</li>
+  <li><strong>Hackathon enthusiast</strong> who loves collaborative problem-solving and rapid prototyping</li>
+  <li><strong>Music lover</strong> who finds inspiration in melodies and rhythms</li>
 </ul>
-
-<hr style="border: 1px solid #1976d2; margin: 32px 0 16px 0;" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,react,nodejs,express,nextjs,spring,tailwind,materialui,mysql,mongodb,firebase,flutter,vercel,netlify,figma,insomnia&perline=10" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,react,nodejs,nextjs,spring,tailwind,mysql,mongodb,firebase,figma,flutter" />
 </p>
