@@ -33,5 +33,5 @@
 ## <span style="color:#1e1b4b;">Tech Stack</span>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,react,nodejs,express,nextjs,spring,tailwind,materialui,mysql,mongodb,firebase,flutter,vercel,netlify,figma,insomnia&perline=10" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,react,nodejs,express,nextjs,spring,tailwind,materialui,mysql,mongodb,postgres,firebase,flutter,postman,vercel,netlify,figma,insomnia&perline=10" />
 </p>
